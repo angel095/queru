@@ -1,6 +1,5 @@
 # queru
 trabajo de programación I
-public class Rectangulo {
 public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
         int ancho;
